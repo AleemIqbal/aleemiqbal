@@ -5,3 +5,5 @@
   from = "https://aleemiqbal.com/SEOFamilyGroup"
   to = "https://www.facebook.com/groups/seomastersacademy"
   status = 301
+  force = true # COMMENT: ensure that we always redirect
+  headers = {X-From = "Netlify"}
