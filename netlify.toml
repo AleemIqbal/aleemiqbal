@@ -2,6 +2,6 @@
   publish = "dist"
   command = "yarn generate"
 [[redirects]]
-  from = "/SEOFamilyGroup"
+  from = "https://aleemiqbal.com/SEOFamilyGroup"
   to = "https://www.facebook.com/groups/seomastersacademy"
   status = 301
